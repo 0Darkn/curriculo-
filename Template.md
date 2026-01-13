@@ -13,3 +13,5 @@
 - asembler
 - c e c++
 - Python 
+---
+- datas e empresas:
