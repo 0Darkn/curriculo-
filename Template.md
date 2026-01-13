@@ -1,9 +1,9 @@
 ### estudei e trabalhei:
-- biologia e eletricidade
+- 1978 biologia e eletricidade
 - 1981 serralheria, eletricidade e eletrtronica
 - 1982 serralharia mecânica e eletronica digital
 - 1984 eletromecânico e microprocessadores
-- mecânica de fluidos:
+ - mecânica de fluidos:
 - idralica e pneumática
 ---
 - sistemas operacionais:
