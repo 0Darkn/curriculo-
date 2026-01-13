@@ -8,3 +8,8 @@
 - Windows e msdos
 - unix, solaris da oracle
 - linux suse, opensuse
+---
+- basic, código máquina
+- asembler
+- c e c++
+- Python 
