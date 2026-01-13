@@ -2,10 +2,10 @@
 - 1978 biologia e eletricidade
 - 1981 serralheria, eletricidade e eletrtronica
 - 1982 serralharia mecânica e eletronica digital
-- 1984 eletromecânico e microprocessadores
- - mecânica de fluidos:
-- idralica e pneumática
+- 1984 eletromecânico e microprocessadores mecânica de fluidos, idralica e pneumática
+
 ---
+- 2000
 - sistemas operacionais:
 - Windows e msdos
 - unix, solaris da oracle
