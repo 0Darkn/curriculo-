@@ -11,6 +11,7 @@
 - unix, solaris da oracle
 - linux suse, opensuse
 ---
+- programação: 
 - basic, código máquina
 - asembler
 - c e c++
