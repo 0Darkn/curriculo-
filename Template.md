@@ -3,6 +3,7 @@
 - 1 serralheria, eletricidade e eletrtronica
 - 2 serralharia mecânica e eletronica digital
 - 3 eletromecânico e microprocessadores
+- mecânica de fluidos
 - 4 idralica e pneumática
 ---
 - sistemas operacionais:
