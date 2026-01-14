@@ -61,7 +61,7 @@ Profissional com formação e experiência técnica multidisciplinar nas áreas 
 *( datas, funções e empresas)*
 
 ---
-* **Ano – Ano | Empresa**
+* **1982 | AMERICO AUGUSTO FERNANDES**
 * 
 * **Ano – Ano | Empresa**
 * 
