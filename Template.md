@@ -58,10 +58,10 @@ Profissional com formação e experiência técnica multidisciplinar nas áreas 
 
 ## Experiência Profissional
 
-* **1982 | AMERICO AUGUSTO FERNANDES**
+* **1982 - 1989 | AMERICO AUGUSTO FERNANDES**
 * como serralheiro
-* **Ano – Ano | Empresa**
-* 
+* **1989 – 1990 | ROSACO SOC METALOMECANICA LD**
+* como serralheiro
 * **Ano – Ano | Empresa**
 * 
 * **Ano – Ano | Empresa**
