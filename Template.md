@@ -42,8 +42,7 @@ Profissional com formação e experiência técnica multidisciplinar nas áreas 
 
 * Windows
 * MS-DOS
-* Unix
-* Solaris (Oracle)
+* Unix, Solaris (Oracle)
 * Linux: SUSE, openSUSE
 
 ---
