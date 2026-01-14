@@ -64,8 +64,8 @@ Profissional com formação e experiência técnica multidisciplinar nas áreas 
 * como serralheiro
 * **1989 – 1989 | FERNANDO & CRUZ LD**
 * como serralheiro
-* **Ano – Ano | Empresa**
-* 
+* **1991 – 1992 | ARB AUTO REBOQUES BARREIRO SA**
+* como serralheiro
 * **Ano – Ano | Empresa**
 * 
   Função desempenhada e principais responsabilidades.
