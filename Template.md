@@ -58,9 +58,19 @@ Profissional com formação e experiência técnica multidisciplinar nas áreas 
 
 ## Experiência Profissional
 
-*(A desenvolver – inserir datas, funções e empresas)*
+*( datas, funções e empresas)*
 
+---
 * **Ano – Ano | Empresa**
+* 
+* **Ano – Ano | Empresa**
+* 
+* **Ano – Ano | Empresa**
+* 
+* **Ano – Ano | Empresa**
+* 
+* **Ano – Ano | Empresa**
+* 
   Função desempenhada e principais responsabilidades.
 
 * **Ano – Ano | Empresa**
