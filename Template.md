@@ -38,8 +38,6 @@ Profissional com formação e experiência técnica multidisciplinar nas áreas 
 
 ## Sistemas Operacionais
 
-**Desde 2000**
-
 * Windows
 * MS-DOS
 * Unix, Solaris (Oracle)
