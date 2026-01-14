@@ -58,9 +58,6 @@ Profissional com formação e experiência técnica multidisciplinar nas áreas 
 
 ## Experiência Profissional
 
-*( datas, funções e empresas)*
-
----
 * **1982 | AMERICO AUGUSTO FERNANDES**
 * como serralheiro
 * **Ano – Ano | Empresa**
