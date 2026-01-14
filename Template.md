@@ -62,8 +62,8 @@ Profissional com formação e experiência técnica multidisciplinar nas áreas 
 * como serralheiro
 * **1989 – 1990 | ROSACO SOC METALOMECANICA LD**
 * como serralheiro
-* **Ano – Ano | Empresa**
-* 
+* **1989 – 1989 | FERNANDO & CRUZ LD**
+* como serralheiro
 * **Ano – Ano | Empresa**
 * 
 * **Ano – Ano | Empresa**
