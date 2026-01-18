@@ -66,13 +66,20 @@ Profissional com formação e experiência técnica multidisciplinar nas áreas 
 * como serralheiro
 * **1991 – 1992 | ARB AUTO REBOQUES BARREIRO SA**
 * como serralheiro
-* **Ano – Ano | Empresa**
+* **1992 – 1992 | BARRMETAL COOP METALORGICA BARREIRO CRL**
 * 
-  Função desempenhada e principais responsabilidades.
-
-* **Ano – Ano | Empresa**
-  Função desempenhada e principais responsabilidades.
-
+* **1993 – 1993 | TUBICEDE CEDENCIA PESSOAL BARREIRO LD**
+* como eletromecanico
+* **1995 – 1995 | ** ADECCO RECURSOS HUMANOS - EMPRESA DE TRABALHO TEMPORARIO**
+* como eletromecanico
+* **2000 – 2001 | ** FREGUESIA DE SANTO ANDRE**
+* assistente operacional
+* **2004 – 2004 | ** SULUS MATERIAIS ELECTRICOS SUL LDA**
+* como electricista
+* **2005 – 2006 | ** PERSONA - ASSOCIAÇÃO PARA A PROMOÇÃO DA SAUDE**
+* como informatico
+* **20015 – 2022 | ** MUNICIPIO DO BARREIRO**
+* assistente operacional
 ---
 
 ## Competências Técnicas
