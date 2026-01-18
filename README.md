@@ -67,7 +67,7 @@ Profissional com formação e experiência técnica multidisciplinar nas áreas 
 * **1991 – 1992 | ARB AUTO REBOQUES BARREIRO SA**
 * como serralheiro
 * **1992 – 1992 | BARRMETAL COOP METALORGICA BARREIRO CRL**
-* 
+* como serralheiro 
 * **1993 – 1993 | TUBICEDE CEDENCIA PESSOAL BARREIRO LD**
 * como eletromecanico
 * **1995 – 1995 | ** ADECCO RECURSOS HUMANOS - EMPRESA DE TRABALHO TEMPORARIO**
