@@ -33,7 +33,10 @@ Profissional com formação e experiência técnica multidisciplinar nas áreas 
 * Mecânica de fluidos
 * Hidráulica
 * Pneumática
-
+2000
+- servidores Windows e linux
+- apache, mysql + PHP, html,css, JavaScript
+- clusters linux
 ---
 
 ## Sistemas Operacionais
@@ -42,6 +45,7 @@ Profissional com formação e experiência técnica multidisciplinar nas áreas 
 * MS-DOS
 * Unix, Solaris (Oracle)
 * Linux: SUSE, openSUSE
+
 
 ---
 
