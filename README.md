@@ -110,6 +110,7 @@ Profissional com formação e experiência técnica multidisciplinar nas áreas 
 * Leitura e interpretação de esquemas elétricos e mecânicos
 * Programação de baixo e alto nível
 * Sistemas operativos e administração básica
+* Engenharia reversa
 
 ---
 
