@@ -33,10 +33,18 @@ Profissional com formação e experiência técnica multidisciplinar nas áreas 
 * Mecânica de fluidos
 * Hidráulica
 * Pneumática
-2000
+**2000**
 - servidores Windows e linux
 - apache, mysql + PHP, html,css, JavaScript
 - clusters linux
+**2007**
+- secund life
+**2009**
+- opensimulator
+- osgrid
+- LSL script
+**2020**
+- Python
 ---
 
 ## Sistemas Operacionais
