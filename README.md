@@ -45,6 +45,7 @@ Profissional com formação e experiência técnica multidisciplinar nas áreas 
 - clusters linux
 
 **2007**
+curso operadores de computadores 
 
 - secund life
 
