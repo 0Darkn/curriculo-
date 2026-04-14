@@ -1,3 +1,4 @@
+- como a vida trabalha 
 [English](https://github.com/0Darkn/curriculo-/blob/main/English-README.md)
 
 # Currículo Profissional de José Raposo
