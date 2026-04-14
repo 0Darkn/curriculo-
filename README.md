@@ -15,6 +15,7 @@ Profissional com formação e experiência técnica multidisciplinar nas áreas 
 ### Estudos e Trabalho
 
 **1978**
+- estudo dos seres vivos
 
 * Biologia
 * Eletricidade
